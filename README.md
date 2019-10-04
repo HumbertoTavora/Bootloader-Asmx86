@@ -1,5 +1,5 @@
 # Bootloader-Asmx86
-Projeto de Infra-Software.
+Primeiro projeto de Infra-Estrutura de Software.
 
 Para execução do kernel, deve ser executado o script "makefile", através do comendo:
 $ make all
